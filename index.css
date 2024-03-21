@@ -1,0 +1,46 @@
+h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+  
+    
+    
+}
+
+.buttns{
+    position: relative;
+    left: 300px;
+}
+
+.btn{
+    position: relative;
+    left: 290px;
+}
+#container{
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    background-color: #ffaa00;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+    
+}
+
